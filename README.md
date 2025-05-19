@@ -18,7 +18,7 @@ This work presents the first long-timescale molecular dynamics (MD) investigatio
   Energy-minimized, solvated coordinate files used as input for production MD simulations. Separate files are provided for each WT and mutant system in both apo and holo (ATP-bound or dasatinib-bound) forms.
 
 - 💥 `output_coordinates/`:  
-  Representative structures (trajectory medoids) derived from 2-μs MD simulations for all 13 systems. Files are provided in PDB format for downstream structural or network analysis.
+  Representative structures (trajectory medoids) derived from 6-μs MD simulations for all 13 systems. Files are provided in PDB format for downstream structural or network analysis.
 
 - 🔗 `allosteric_hubs/`:  
   List of 44 dynamically embedded allosteric residues identified via network topology and interface-weighted scoring. Includes domain annotation, betweenness centrality, and integration module metrics.
