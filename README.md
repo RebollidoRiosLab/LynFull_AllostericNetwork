@@ -7,7 +7,7 @@ Submitted to the Special Issue *Computational Approaches in Drug Design: Novel M
 
 ## Overview
 
-This work presents the first long-timescale molecular dynamics (MD) investigation of full-length Lyn kinase, spanning its SH3, SH2, and SH1 domains. Simulations were conducted across wildtype (WT) and mutant systems in apo and ligand-bound states. The study integrates structural modeling, correlation network analysis, and machine learning to uncover embedded allosteric hubs and interdomain coordination mechanisms.
+This work presents the first long-timescale molecular dynamics (MD) simulations of full-length Lyn kinase, spanning its SH3, SH2, and SH1 domains. Simulations were conducted across wildtype (WT) and mutant systems in apo and ligand-bound states. The study integrates structural modeling, correlation network analysis, and machine learning to uncover embedded allosteric hubs and interdomain coordination mechanisms.
 
 ## Repository Contents
 
