@@ -11,7 +11,7 @@ This work presents the first long-timescale molecular dynamics (MD) investigatio
 
 ## Repository Contents
 
-- 🧬 `model/`:  
+- 🧬 `models/`:  
   Initial full-length Lyn kinase model (residues 60–502) generated via comparative modeling. Includes wildtype (WT) and all five cancer-associated mutants (K275A, E290D, E290K, I364L, I364N), provided in PDB format.
 
 - 🧪 `input_coordinates/`:  
