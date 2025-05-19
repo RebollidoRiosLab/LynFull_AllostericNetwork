@@ -21,7 +21,7 @@ This work presents the first long-timescale molecular dynamics (MD) investigatio
   Representative structures (cluster medoids) derived from 6-μs MD simulations for all 13 systems. Files are provided in PDB format for downstream structural or network analysis.
 
 - 🔗 `allosteric_hubs/`:  
-  List of 44 dynamically embedded allosteric residues identified via network topology and interface-weighted scoring. Includes domain annotation, betweenness centrality, and integration module metrics.
+  List of 44 dynamically embedded allosteric residues identified via network topology and interface-weighted scoring. Includes domain annotation, betweenness centrality, and integration module metrics (CSV format).
 
 - 📊 `classification_features/`:  
   Pre-processed dataset containing 16 structural and dynamic features used in the Random Forest classifier. Features include interdomain distances, angles, and key interaction metrics (CSV format).
