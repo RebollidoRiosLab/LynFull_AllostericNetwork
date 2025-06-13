@@ -25,14 +25,12 @@ This work presents the first long-timescale molecular dynamics (MD) simulations 
 
 - 📊 `classification_features/`:  
   Pre-processed dataset containing 16 structural and dynamic features used in the Random Forest classifier. Features include interdomain distances, angles, and key interaction metrics (CSV format).
-
----  
+ 
 
 ## 📚 Citation
 
 If you use this dataset or model in your research, please cite the associated publication once available.
 
----
 
 ## ✉️ Contact
 
@@ -41,6 +39,5 @@ For questions, feedback, or requests for additional data, feel free to reach out
 - **Rocio Rebollido-Rios** — [rocio.rebollido-rios@uni-koeln.de](mailto:rocio.rebollido-rios@uni-koeln.de)  
 - **Mina Rabipour** — [mina.rabipour@uk-koeln.de](mailto:mina.rabipour@uk-koeln.de)
 
----
 
 © 2025 Rebollido-Rios Lab. Released for academic research purposes.
