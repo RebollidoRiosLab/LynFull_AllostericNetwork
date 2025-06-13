@@ -36,8 +36,8 @@ If you use this dataset or model in your research, please cite the associated pu
 
 For questions, feedback, or requests for additional data, feel free to reach out to:
 
-- **Rocio Rebollido-Rios** — [rocio.rebollido-rios@uni-koeln.de](mailto:rocio.rebollido-rios@uni-koeln.de)  
-- **Mina Rabipour** — [mina.rabipour@uk-koeln.de](mailto:mina.rabipour@uk-koeln.de)
+- **Rocio Rebollido-Rios:** [rocio.rebollido-rios@uni-koeln.de](mailto:rocio.rebollido-rios@uni-koeln.de)  
+- **Mina Rabipour:** [mina.rabipour@uk-koeln.de](mailto:mina.rabipour@uk-koeln.de)
 
 
 © 2025 Rebollido-Rios Lab. Released for academic research purposes.
