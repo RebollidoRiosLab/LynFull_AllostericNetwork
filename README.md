@@ -5,9 +5,13 @@ This repository contains data and models supporting the manuscript:
 **"Allosteric Coupling in Full-Length Lyn Kinase Revealed by Molecular Dynamics and Network Analysis"**  
 Submitted to the Special Issue *Computational Approaches in Drug Design: Novel Methodologies and Applications*, International Journal of Molecular Sciences (IJMS).
 
+---
+
 ## Overview
 
 This work presents the first long-timescale molecular dynamics (MD) simulations of full-length Lyn kinase, spanning its SH3, SH2, and SH1 domains. Simulations were conducted across wildtype (WT) and mutant systems in apo and ligand-bound states. The study integrates structural modeling, correlation network analysis, and machine learning to uncover embedded allosteric hubs and interdomain coordination mechanisms.
+
+---
 
 ## Repository Contents
 
@@ -25,12 +29,14 @@ This work presents the first long-timescale molecular dynamics (MD) simulations 
 
 - 📊 `classification_features/`:  
   Pre-processed dataset containing 16 structural and dynamic features used in the Random Forest classifier. Features include interdomain distances, angles, and key interaction metrics (CSV format).
- 
 
+---  
+ 
 ## 📚 Citation
 
 If you use this dataset or model in your research, please cite the associated publication once available.
 
+---
 
 ## ✉️ Contact
 
