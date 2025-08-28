@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16986533.svg)](https://doi.org/10.5281/zenodo.16986533)
 
-This repository contains data and models supporting the paper:
+This repository contains data and models supporting the following publication:
 
 **"Allosteric Coupling in Full-Length Lyn Kinase Revealed by Molecular Dynamics and Network Analysis"**  
 Submitted to the Special Issue *Computational Approaches in Drug Design: Novel Methodologies and Applications*, International Journal of Molecular Sciences (IJMS).
