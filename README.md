@@ -1,6 +1,5 @@
 # LynFull_AllostericNetwork
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16951046.svg)](https://doi.org/10.5281/zenodo.16951046)
 
 This repository contains data and models supporting the paper:
 
