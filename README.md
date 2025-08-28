@@ -38,8 +38,7 @@ If you use this dataset, code, or model in your research, please cite the associ
 
 Rabipour, M.; Hassenrück, F.; Pallaske, E.; Röhrig, F.; Hallek, M.; Alvarez-Idaboy, J.R.; Kramer, O.; Rebollido-Rios, R.  
 **Allosteric Coupling in Full-Length Lyn Kinase Revealed by Molecular Dynamics and Network Analysis.**  
-*International Journal of Molecular Sciences.* 2025, 26, 5835.  
-https://doi.org/10.3390/ijms26125835  
+*International Journal of Molecular Sciences.* 2025, 26, 5835. https://doi.org/10.3390/ijms26125835  
 
 Additionally, please cite this repository (Zenodo DOI will be added after release):  
 
