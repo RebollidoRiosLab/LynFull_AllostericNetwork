@@ -1,6 +1,6 @@
 # LynFull_AllostericNetwork
 
-This repository contains data and models supporting the manuscript:
+This repository contains data and models supporting the paper:
 
 **"Allosteric Coupling in Full-Length Lyn Kinase Revealed by Molecular Dynamics and Network Analysis"**  
 Submitted to the Special Issue *Computational Approaches in Drug Design: Novel Methodologies and Applications*, International Journal of Molecular Sciences (IJMS).
