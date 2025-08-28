@@ -1,5 +1,7 @@
 # LynFull_AllostericNetwork
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16951046.svg)](https://doi.org/10.5281/zenodo.16951046)
+
 This repository contains data and models supporting the paper:
 
 **"Allosteric Coupling in Full-Length Lyn Kinase Revealed by Molecular Dynamics and Network Analysis"**  
@@ -41,8 +43,7 @@ Rabipour, M.; Hassenrück, F.; Pallaske, E.; Röhrig, F.; Hallek, M.; Alvarez-Id
 *International Journal of Molecular Sciences.* 2025, 26, 5835. https://doi.org/10.3390/ijms26125835  
 
 Additionally, please cite this repository:  
-RebollidoRiosLab (2025). **Lyn Kinase Allosteric Coupling [Code and Data].** Zenodo.  
-https://doi.org/10.5281/zenodo.
+RebollidoRiosLab (2025). **Lyn Kinase Allosteric Coupling [Code and Data].** Zenodo. https://doi.org/10.5281/zenodo.
 
 ---
 
